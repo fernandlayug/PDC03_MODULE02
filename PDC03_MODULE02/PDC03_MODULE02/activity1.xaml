@@ -10,6 +10,7 @@
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Test"/>
             <Button Text="Test2"/>
+            <Button Text="Test3"/>
 
         </StackLayout>
     </ContentPage.Content>
